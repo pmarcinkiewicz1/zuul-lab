@@ -1,5 +1,5 @@
 - project:
-    name: pmarcinkiewicz/zuul-lab
+    name: pmarcinkiewicz1/zuul-lab
     check:
       jobs:
         - noop
