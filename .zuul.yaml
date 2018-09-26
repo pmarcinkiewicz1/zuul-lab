@@ -1,0 +1,8 @@
+- project:
+    name: pmarcinkiewicz1/zuul-lab
+    check:
+      jobs:
+        - noop
+    gate:
+      jobs:
+        - noop
